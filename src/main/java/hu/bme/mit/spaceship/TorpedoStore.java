@@ -59,3 +59,4 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+//Fixed the code based on the review.
